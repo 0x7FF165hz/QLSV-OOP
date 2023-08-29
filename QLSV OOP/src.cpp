@@ -16,5 +16,4 @@ int main() {
 	Student_App* app = Student_App::getStudent_App();
 	app->init();
 	app->menu();
-	cout << "Anh hom bik";
 }
