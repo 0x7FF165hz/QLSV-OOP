@@ -1,0 +1,10 @@
+﻿  Menu.cpp
+  src.cpp
+  Student.cpp
+  Student_App.cpp
+  Student_Manager.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 309 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  QLSV OOP.vcxproj -> D:\Coder\main\Cpp\QLSV OOP\x64\Release\QLSV OOP.exe

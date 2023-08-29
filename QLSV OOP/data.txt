@@ -1,0 +1,5 @@
+ID2845;Nguyen Thai Son;Hoa Binh;18
+ID7453;Ngo Duc Anh;Dong Anh;18
+ID7459;Le Ba Khanh Linh;Thanh Hoa;26
+ID5624;Nguyen Van Lam;Ninh Binh;20
+ID2102;Mai Van Chien;Ha Noi;29
