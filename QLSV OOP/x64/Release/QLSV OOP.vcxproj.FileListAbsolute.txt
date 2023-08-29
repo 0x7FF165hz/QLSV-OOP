@@ -1,1 +1,2 @@
 D:\Coder\main\Cpp\QLSV OOP\x64\Release\QLSV OOP.exe
+C:\Users\0x7FF89C\Source\Repos\QLSV-OOP\QLSV OOP\x64\Release\QLSV OOP.exe
